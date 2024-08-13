@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1723581590 source:c:\users\platt\dev\proj\egdl\src\test.c
+	<stdlib.h>
+	<stdio.h>
+	"main.h"
+
+1723581519 c:\users\platt\dev\proj\egdl\src\main.h
+
