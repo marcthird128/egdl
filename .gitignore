@@ -3,6 +3,7 @@ src/bin
 src/obj
 src/*.cbp
 src/*.layout
+src/*.depend
 
 # Debugging Files
 src/test.c
